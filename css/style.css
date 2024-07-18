@@ -1,0 +1,26 @@
+.rowmundo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 20px;
+  color: chartreuse;
+}
+
+.loginraul{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-azul-de-memphis-com-meios-tons-e-elementos-de-linha_1017-33622.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
